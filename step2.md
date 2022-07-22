@@ -14,7 +14,7 @@ Nous allons utiliser l'api [météo](https://open-meteo.com/en)
 * Création d'un service pour récupérer depuis l'api la température minimum et maximum du jour
 * Affichage sous forme de texte des deux informations accompagnées de l'unité
 
-## Connaissance attendues
+## Connaissances attendues
 
 * Utilisation de [Angular CLI](https://angular.io/cli)
 * Utilisation des services
