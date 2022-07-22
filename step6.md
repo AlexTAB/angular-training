@@ -1,4 +1,4 @@
-# Étape 6 - Second composant
+# Étape 6 - Communication entre composant
 
 ## But de l'étape
 
